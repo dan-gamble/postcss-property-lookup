@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/simonsmith/postcss-property-lookup.git"
   },
-  "main": "build/index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "object-assign": "^4.0.1",
     "postcss": "^5.0.4",
